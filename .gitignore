@@ -27,6 +27,13 @@ go.work.sum
 # env file
 .env
 
+# Python runtime artifacts
+__pycache__/
+*.py[cod]
+
+# Local demo outputs
+artifacts/
+
 # Editor/IDE
 # .idea/
 # .vscode/
